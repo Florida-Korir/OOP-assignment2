@@ -10,7 +10,7 @@ public class PetProject {
     private JLabel imageLabel;
 
     public PetProject() {
-        frame = new JFrame("OOP ASSIGNMENT 2: PET SELECTION");
+        frame = new JFrame("RadioButtonDemo");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         panel = new JPanel();
